@@ -1,16 +1,27 @@
-### Hi there 👋
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
 
-<!--
-**VerDevZX/verdevzx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hello! 👋🏻
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br />
+
+Hi, I'm VerDev 2nd account of [@Lydzx](https://github.com/Lydzx), a Front-End Developer from Bandung, West Java, Indonesia. :D
+
+**About Me**
+
+- ✨ Nothing special is in my life.
+- 🌎 Find me on <a href="https://discord.com/users/593774699654283265">Discord</a>
+
+ **My Friends**
+ 
+- **[@YuriAkari](https://github.com/YuriAkari)**
+- **[@VeguiIzumi](https://github.com/VeguiIzumi)**
+- **[@Allvaa](https://github.com/Allvaa)**
+
+**Tool & Languages**  
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+
+
